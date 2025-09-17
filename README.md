@@ -1,8 +1,3 @@
-Absolutely! Here's the updated `README.md` with the **sample input and output** section added. This version is structured to impress visitors to your GitHub profile by clearly showcasing the project’s purpose, features, and real-world application.
-
----
-
-```markdown
 # 🎙️ InterviewInsightAI
 
 An agentic AI system that analyzes interview recordings and maps them to job descriptions using OpenAI APIs.
