@@ -21,7 +21,7 @@ InterviewInsightAI is designed to help recruiters and hiring managers quickly as
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/InterviewInsightAI.git
+   git clone https://github.com/AbhuSteyn/InterviewInsightAI.git
    cd InterviewInsightAI
    ```
 
